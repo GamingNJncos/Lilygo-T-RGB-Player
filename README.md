@@ -1,6 +1,6 @@
 # T-RGB-Player
 
-Custom firmware for the LilyGo T-RGB ESP32-S3 round display. Plays GIF animations and sprite sheets with auto-zoom on a 480x480 round screen. Automatic background removal, weather overlay, web UI, full serial CLI, and dual-core architecture.
+Custom firmware for the LilyGo T-RGB ESP32-S3 round display. Plays GIF animations and sprite sheets with auto-zoom on a 480x480 round screen. Automatic background removal, weather overlay, web UI, full serial CLI, and dual-core architecture. Can be used with [BlitHappens](https://github.com/GamingNJncos/BlitHappens) but is not a hard requirement.  
 
 <p align="center">
   <img src="docs/device-display-gif.png" width="200" alt="GIF on device">
